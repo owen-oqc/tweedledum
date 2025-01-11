@@ -1,6 +1,8 @@
 [project]
 requires-python = ">=3.6"
 
+name = "tweedledum"
+
 [build-system]
 requires = [
     "setuptools>=42",
